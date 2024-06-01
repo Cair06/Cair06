@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://telegram.me/rasalghouI">
-    <img src="https://www.pngwing.com/ru/free-png-saggv" alt="Telegram Sticker" width="100px">
+    <img src="https://pngset.com/images/telegram-new-logo-text-symbol-graphics-art-transparent-png-1597903.png" alt="Telegram Sticker" width="100px">
   </a>
 </p>
 
@@ -25,6 +25,6 @@
 
 ## Статистика
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ragimov780&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cair06&show_icons=true)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ragimov780&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cair06&layout=compact)
