@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://telegram.me/rasalghouI">
-    <img src="https://pngset.com/images/telegram-new-logo-text-symbol-graphics-art-transparent-png-1597903.png" alt="Telegram Sticker" width="100px">
+    <img src="https://freelogopng.com/images/all_img/1683044996telegram-logo-png.png" alt="Telegram Sticker" width="100px">
   </a>
 </p>
 
