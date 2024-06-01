@@ -10,21 +10,3 @@
     <img src="https://freelogopng.com/images/all_img/1683044996telegram-logo-png.png" alt="Telegram Sticker" width="100px">
   </a>
 </p>
-
-## О себе
-
-Я опытный Python-разработчик, специализирующийся на бэкенд-разработке и автоматизации. Стремлюсь к созданию чистого, эффективного и масштабируемого кода. Мой подход к программированию — это сочетание лучших практик, креативности и непрерывного обучения.
-
-
-## Контакты
-
-Если у вас есть вопросы или предложения, не стесняйтесь связываться со мной:
-
-- **Telegram:** [Sherif](https://telegram.me/yourusername)
-- **Email:** [contact@myemail.com](mailto:contact@myemail.com)
-
-## Статистика
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cair06&show_icons=true)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cair06&layout=compact)
