@@ -7,5 +7,5 @@
   <a href="https://telegram.me/rasalghouI">
     <img src="https://freelogopng.com/images/all_img/1683044996telegram-logo-png.png" alt="Telegram Sticker" width="100px">
   </a>
-  <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_White.png">
+  <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_White.png" width="150px">
 </p>
