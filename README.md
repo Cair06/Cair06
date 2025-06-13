@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://telegram.me/rasalghoul">
-    <img src="https://freelogopng.com/images/all_img/1683044996telegram-logo-png.png" alt="Telegram" width="100px">
+    <img src="https://freelogopng.com/images/all_img/1683044996telegram-logo-png.png" alt="Telegram" width="10px">
   </a>
   <br>
   <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_White.png" alt="Go" width="225px">
