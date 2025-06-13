@@ -8,6 +8,6 @@
   <a href="https://telegram.me/rasalghoul">
     <img src="https://freelogopng.com/images/all_img/1683044996telegram-logo-png.png" alt="Telegram" width="100px">
   </a>
-  <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="Go" width="150px">
+  <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_White.png" alt="Go" width="150px">
   <img src="https://raw.githubusercontent.com/Cair06/Cair06/main/python.png" alt="Python" width="150px">
 </p>
