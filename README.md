@@ -8,4 +8,5 @@
     <img src="https://freelogopng.com/images/all_img/1683044996telegram-logo-png.png" alt="Telegram Sticker" width="100px">
   </a>
   <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_White.png" width="150px">
+  <img src="https://banner2.cleanpng.com/lnd/20240917/fb/8d93016627cd12338f028613d81a01.webp" width="150px">
 </p>
