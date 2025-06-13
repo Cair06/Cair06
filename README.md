@@ -3,7 +3,7 @@
 <p align="center">
   <strong>Go/Python Developer | Technologies | Innovations</strong>
   <a href="https://telegram.me/rasalghoul" style="margin-left: 40px;">
-    <img src="https://freelogopng.com/images/all_img/1683044996telegram-logo-png.png" alt="Telegram" width="50px">
+    <img src="https://freelogopng.com/images/all_img/1683044996telegram-logo-png.png" alt="Telegram" width="25px">
   </a>
 </p>
 <p align="center">
