@@ -8,6 +8,6 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Black.png" alt="Go" width="150px">
+  <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Black.png" alt="Go" width="200px">
   <img src="https://raw.githubusercontent.com/Cair06/Cair06/main/python.png" alt="Python" width="100px">
 </p>
