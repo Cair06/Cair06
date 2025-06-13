@@ -9,5 +9,5 @@
 </p>
 <p align="center">
   <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Black.png" alt="Go" width="175px">
-  <img src="https://raw.githubusercontent.com/Cair06/Cair06/main/python.png" alt="Python" width="100px">
+  <img src="https://raw.githubusercontent.com/Cair06/Cair06/main/output-onlinepngtools.png" alt="Python" width="100px">
 </p>
