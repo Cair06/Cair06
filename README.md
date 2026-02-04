@@ -8,6 +8,6 @@
   </a>
 </p>
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/Cair06/Cair06/main/go-icon.png](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.shareicon.net%2Ftag%2Fprogrammer&ved=0CBYQjRxqFwoTCPDo6fH-vpIDFQAAAAAdAAAAABAI&opi=89978449)" alt="Go" width="175px">
+  <img src="https://www.shareicon.net/download/512x512/2015/09/28/647943_web_512x512.png" alt="Go" width="175px">
   <img src="https://raw.githubusercontent.com/Cair06/Cair06/main/python.png" alt="Python" width="100px">
 </p>
