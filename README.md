@@ -3,7 +3,7 @@
 <p align="center">
   <strong>Backend Developer | Technologies | Innovations</strong>
   <br>
-  <a href="https://telegram.me/rasalghoul" style="margin-left: 40px;">
+  <a href="https://telegram.me/chanov06" style="margin-left: 40px;">
     <img src="https://static.vecteezy.com/system/resources/previews/018/930/486/original/telegram-logo-telegram-icon-transparent-free-png.png" alt="Telegram" width="50px">
   </a>
 </p>
